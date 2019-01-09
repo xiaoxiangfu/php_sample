@@ -1,0 +1,2 @@
+<?php 
+$admin['pass']  = "xxxx";
