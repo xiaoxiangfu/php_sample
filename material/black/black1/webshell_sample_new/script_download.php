@@ -1,2 +1,0 @@
-<?php
-readfile($VAR['file']);
