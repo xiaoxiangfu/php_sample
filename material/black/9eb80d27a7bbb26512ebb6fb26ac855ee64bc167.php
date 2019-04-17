@@ -12,3 +12,4 @@ function my_backdoor() {
                 }
         }
 }
+?>

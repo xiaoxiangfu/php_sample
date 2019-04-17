@@ -16,3 +16,6 @@ fsockopen (  'udp://');
 call_user_func('LOL');
 $d = "<!--#exec cmd=";
 $c = "AddType application/x-httpd-php .htaccess";
+?>
+
+             

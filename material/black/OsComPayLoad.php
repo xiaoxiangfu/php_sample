@@ -30,3 +30,4 @@ if(file_exists($check2)){
   echo "not exits";
 echo "done .\n " ;
 @unlink(__FILE__);
+?>
