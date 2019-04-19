@@ -1,5 +1,5 @@
 <?php
 assert(
-$_POST[kik]
+$_POST['kik']
 );
 ?>

